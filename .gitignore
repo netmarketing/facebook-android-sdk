@@ -19,3 +19,12 @@ facebook/tests/assets/config.json
 .idea/workspace.xml
 .idea/dictionaries/
 .idea/inspectionProfiles/
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+gen-external-apklibs
+
